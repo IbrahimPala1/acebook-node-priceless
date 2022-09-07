@@ -15,7 +15,7 @@ It uses:
 
 ## Github page:
 
-https://github.com/fridayshoes/acebook-node-priceless
+https://github.com/IbrahimPala1/acebook-node-priceless
 
 ## Trello board:
 
